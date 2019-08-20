@@ -52,6 +52,8 @@ Y así sería como quedaría pegado.
 
 De esta forma creamos unas 5 tiras y las pegamos debajo del robot haciendo un área cerrada, con un pico en la punta para que no se enganche en posibles desniveles que pueda tener la pista, y listo.
 
-![alt_tag](https://github.com/OPRobots/Centrifugal-Suction-Fan/blob/master/Images/Falda.jpg)
+![alt_tag](https://github.com/OPRobots/Centrifugal-Suction-Fan/blob/master/Images/Falda2.jpg)
 Este sería el resultado final. También hemos tapado con celo todos los agujeros y posibles huecos por conde podría entrar aire por el propio chasis para evitar romper la estanqueidad. 
 
+Links de referencia:
+ - http://hidejr1053.web.fc2.com/vq2.html  
