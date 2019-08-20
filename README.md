@@ -9,7 +9,7 @@ A la hora de diseñar el ventilador hay muchos factores a tener en cuenta cuyos 
 
 El objetivo de realizar un ventilador centrifugo es lograr crear una zona de baja presión debajo del robot para que aparezca una fuerza de atracción al suelo debido a la diferencia de presión encima y debajo del robot. Para lograr la mayor efectividad existe una fórmula que dice lo siguiente:
 
-	**Qmax = (φ * (R ^ 2) * H * ω) / 2**
+	Qmax = (φ * (R ^ 2) * H * ω) / 2
 
 **φ:** coeficiente de flujo 
 
