@@ -12,8 +12,11 @@ El objetivo de realizar un ventilador centrifugo es lograr crear una presion neg
 Qmax = (φ * (R ^ 2) * H * ω) / 2
 
 φ: coeficiente de flujo 
+
 R: diámetro exterior del ventilador
+
 H: altura de las palas del ventilador
+
 ω: Ventilador de velocidad angular de rotación
 
 En definitiva podemos llegar a la conclusión de que lo que mas afecta es que cuanto mayor sea el diametro exterior del ventilador mayor será el "vacío" que generemos debajo del robot. Tambien podemos decrementar la presión haciendo el ventilador mas alto o aumentando su velocidad. Pero es menos significativo que aumentar el radio exterior.
