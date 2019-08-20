@@ -7,7 +7,7 @@ Para la construcción del sistema de succión centrifugo hay dos partes principa
 VENTILADOR:
 A la hora de diseñar el ventilador hay muchos factores a tener en cuenta cuyos parametros fueron obtenidos en base a prueba y error, sacando algunas conclusiones personales de los resultados pero sin estar cotejados con ningun software de dinamica de fluidos o alguna formula fisica. Solo daré mi opinion que puede estar acertada o no. Porfavor tengan esto en cuenta. 
 
-El objetivo de realizar un ventilador centrifugo es lograr crear una presion negativa debajo del robot para que aparezca una fuerza de atracción al suelo devido a la diferencia de presion encima y debajo del robot. Para lograr la mayor efectividad existe una formula que dice lo siguiente:
+El objetivo de realizar un ventilador centrifugo es lograr crear una zona de baja presion debajo del robot para que aparezca una fuerza de atracción al suelo devido a la diferencia de presion encima y debajo del robot. Para lograr la mayor efectividad existe una formula que dice lo siguiente:
 
 Qmax = (φ * (R ^ 2) * H * ω) / 2
 
